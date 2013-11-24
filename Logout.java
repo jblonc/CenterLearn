@@ -12,11 +12,6 @@ import java.net.*;
 import javax.servlet.*;
 import javax.servlet.http.*;
 
-/**
- *
- * @author  Jinbo Lu
- * @version
- */
 public class Logout extends HttpServlet {
     
     /** Initializes the servlet.
