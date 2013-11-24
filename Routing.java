@@ -14,11 +14,6 @@ import javax.servlet.http.*;
 import java.sql.*;
 import java.util.regex.*;
 
-/**
- *
- * @author  Jinbo Lu
- * @version
- */
 public class Routing extends HttpServlet {
     
     /** Initializes the servlet.
