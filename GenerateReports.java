@@ -15,11 +15,7 @@ import java.util.*;
 import java.sql.*;
 import java.text.*;
 import java.util.regex.*;
-/**
- *
- * @author  Jinbo Lu
- * @version
- */
+
 public class GenerateReports extends HttpServlet {
     
     /** Initializes the servlet.
