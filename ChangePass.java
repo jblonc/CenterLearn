@@ -15,11 +15,7 @@ import java.sql.*;
 import java.util.regex.*;
 import java.text.*;
 import java.util.*;
-/**
- *
- * @author  Jinbo Lu
- * @version
- */
+
 public class ChangePass extends HttpServlet {
     
     /** Initializes the servlet.
