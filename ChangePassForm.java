@@ -14,11 +14,7 @@ import javax.servlet.http.*;
 import java.util.*;
 import java.text.*;
 
-/**
- *
- * @author  Jinbo Lu
- * @version
- */
+
 public class ChangePassForm extends HttpServlet {
     
     /** Initializes the servlet.
